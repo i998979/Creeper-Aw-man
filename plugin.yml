@@ -1,0 +1,11 @@
+main: to.epac.factorycraft.CreeperAwman.Main
+version: 0.1.4
+name: CreeperAwman
+author: i998979
+description: Creeper? Aw man
+api-version: 1.13
+
+permissions:
+  CreeperAwwman.user:
+    default: true
+    description: Give access to hear sound
